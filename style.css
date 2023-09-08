@@ -1,5 +1,7 @@
+/* Heading Styles Begin Here */
 h2 {
     color: blue;
     font-family: sans-serif;
     font-size: 300%;
+    background-color: orange;
 }
